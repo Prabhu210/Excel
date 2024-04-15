@@ -1,4 +1,3 @@
-
 name: Java CI with Maven
 
 on:
@@ -20,6 +19,10 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
         cache: maven
+    - name: Use Node.js 20
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20'
     - name: Build with Maven
       run: mvn -B package --file pom.xml
     - name: Run TestNG Tests
