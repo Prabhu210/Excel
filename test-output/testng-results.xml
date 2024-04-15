@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-15T16:35:10 IST" name="Suite" finished-at="2024-04-15T16:35:40 IST" duration-ms="30230">
+    <groups>
+    </groups>
+    <test started-at="2024-04-15T16:35:10 IST" name="Test" finished-at="2024-04-15T16:35:40 IST" duration-ms="30230">
+      <class name="LFMC.StepDef">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:10 IST" name="setUp" finished-at="2024-04-15T16:35:17 IST" duration-ms="7178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="the_user_clicks_on_Code_Mapping_and_selects_Testing_company_from_the_Dropdown_option()[pri:1, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:17 IST" name="the_user_clicks_on_Code_Mapping_and_selects_Testing_company_from_the_Dropdown_option" finished-at="2024-04-15T16:35:17 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_user_clicks_on_Code_Mapping_and_selects_Testing_company_from_the_Dropdown_option -->
+        <test-method signature="enter_aa_as_and_bb_as_and_cc_as_and_dd_as_and_ee_as()[pri:2, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:17 IST" name="enter_aa_as_and_bb_as_and_cc_as_and_dd_as_and_ee_as" finished-at="2024-04-15T16:35:18 IST" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_aa_as_and_bb_as_and_cc_as_and_dd_as_and_ee_as -->
+        <test-method signature="the_user_clicks_the_Submit_Button()[pri:3, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:18 IST" name="the_user_clicks_the_Submit_Button" finished-at="2024-04-15T16:35:18 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_user_clicks_the_Submit_Button -->
+        <test-method signature="the_user_should_receive_a_mapping_successful_message()[pri:4, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:18 IST" name="the_user_should_receive_a_mapping_successful_message" finished-at="2024-04-15T16:35:18 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_user_should_receive_a_mapping_successful_message -->
+        <test-method signature="the_user_clicks_on_the_History_module()[pri:5, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:18 IST" name="the_user_clicks_on_the_History_module" finished-at="2024-04-15T16:35:24 IST" duration-ms="5249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_user_clicks_on_the_History_module -->
+        <test-method signature="the_user_validates_whether_the_mapping_has_occurred_or_not()[pri:6, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:24 IST" name="the_user_validates_whether_the_mapping_has_occurred_or_not" finished-at="2024-04-15T16:35:35 IST" duration-ms="11243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_user_validates_whether_the_mapping_has_occurred_or_not -->
+        <test-method signature="the_user_performs_demapping()[pri:7, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:35 IST" name="the_user_performs_demapping" finished-at="2024-04-15T16:35:40 IST" duration-ms="5107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_user_performs_demapping -->
+        <test-method signature="the_user_should_receive_a_demapping_successful_message()[pri:8, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:40 IST" name="the_user_should_receive_a_demapping_successful_message" finished-at="2024-04-15T16:35:40 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_user_should_receive_a_demapping_successful_message -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LFMC.StepDef@7dfb0c0f]" started-at="2024-04-15T16:35:40 IST" name="tearDown" finished-at="2024-04-15T16:35:40 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LFMC.StepDef -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
